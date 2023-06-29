@@ -1,0 +1,1 @@
+# Oscylator-harmoniczny-z-t-umieniem-i-wymuszeniem
