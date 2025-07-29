@@ -5,6 +5,7 @@ Repozytorium zawiera kod symulacji oscylatora harmonicznego z tłumieniem i wymu
 - współczynnik tłumienia,
 - wychylenie początkowe (φ),
 - oraz wartość parametru omega (ω).
+
 Wykres aktualizuje się w czasie rzeczywistym w zależności od ustawionych parametrów, co pozwala lepiej zobrazować wpływ zmian na zachowanie układu. Użytkownik ma również możliwość wyboru rodzaju wyświetlanego wykresu:
 - tylko tłumienia,
 - tylko wymuszenia,
